@@ -33,7 +33,7 @@
   - Debian https://www.debian.org/
   - Linux Mint https://linuxmint.com/
   - QubesOS (for hard core security) https://www.qubes-os.org/ 
-  - TailsOS (for anonymity)
+  - TailsOS (for anonymity) https://tails.boum.org/
 - Social media:
   -  Mastodon (Twitter replacement) https://joinmastodon.org/
   -  Nitter (More private way to use Twitter) https://nitter.net/

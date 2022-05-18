@@ -10,7 +10,7 @@
 - Aurora Store (goodbye Play Store) https://auroraoss.com/
 - Joplin (your next favorite note taking app) https://joplinapp.org/
 - Easy way to start self-hosting your own cloud services
-  - Yunohost yunohost.org/en
+  - Yunohost https://yunohost.org/en
   - Freedombox https://www.freedombox.org/
 - Open source firmware/bios https://coreboot.org/
   - Check also IntelME cleaner https://github.com/corna/me_cleaner

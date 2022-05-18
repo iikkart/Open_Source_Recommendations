@@ -4,6 +4,11 @@
 
 ## List:
 
+- PrivacyGuides (Recommendations for the online privacy) https://www.privacyguides.org/ 
+- Terms of Service Didn't Read (Check what you have agreed) https://tosdr.org/
+- F-droid (download and update software for your Android) https://f-droid.org/
+- Aurora Store (goodbye Play Store) https://auroraoss.com/
+- Joplin (your next favorite note taking app) https://joplinapp.org/
 - Easy way to start self-hosting your own cloud services
   - Yunohost yunohost.org/en
   - Freedombox https://www.freedombox.org/
@@ -21,4 +26,18 @@
   -  Matrix https://matrix.org/
   -  Signal https://signal.org/
 -  Libreoffice https://www.libreoffice.org/
+- Linux:
+  - Fedora https://getfedora.org/ (currently my fav) 
+  - Ubuntu https://ubuntu.com/
+  - PopOS https://pop.system76.com/
+  - Debian https://www.debian.org/
+  - Linux Mint https://linuxmint.com/
+  - QubesOS (for hard core security) https://www.qubes-os.org/ 
+  - TailsOS (for anonymity)
+- Social media:
+  -  Mastodon (Twitter replacement) https://joinmastodon.org/
+  -  Nitter (More private way to use Twitter) https://nitter.net/
+  -  Fritter (Private Twitter client for Android) https://fritter.cc/
+  -  NewPipe (Private Youtube client for Android) https://newpipe.net/
+  -  Federated, P2P capable Youtube-clone (https://joinpeertube.org/)
 -  

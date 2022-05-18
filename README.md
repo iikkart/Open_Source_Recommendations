@@ -40,4 +40,3 @@
   -  Fritter (Private Twitter client for Android) https://fritter.cc/
   -  NewPipe (Private Youtube client for Android) https://newpipe.net/
   -  Federated, P2P capable Youtube-clone (https://joinpeertube.org/)
--  

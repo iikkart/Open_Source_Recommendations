@@ -1,6 +1,8 @@
 ## Open Source Recommendations
 ### By Iikka Järvenpää
-### DISCLAIMER: Open source software is not automatically more secure than any other software. Make your own decisions about things you end up to install. I recommend you to read projects' documentations and open issues from their repositories. From the issues, I often search with keywords "security", "secure" or "privacy", to see if there has been related issues open. Also more popular projects are more likely to be more audited by other developers or users. That's not 100% proof though. I believe that projects listed in this repo are well maintained and developers have been working on them with good intentions. 
+### DISCLAIMER: Open source software is not automatically more secure than any other software. 
+
+Make your own decisions about things you end up to install. I recommend you to read projects' documentations and open issues from their repositories. From the issues, I often search with keywords "security", "secure" or "privacy", to see if there has been related issues open. Also more popular projects are more likely to be more audited by other developers or users. That's not 100% proof though. I believe that projects listed in this repo are well maintained and developers have been working on them with good intentions. 
 
 ## List:
 
@@ -9,6 +11,8 @@
 - F-droid (download and update software for your Android) https://f-droid.org/
 - Aurora Store (goodbye Play Store) https://auroraoss.com/
 - Joplin (your next favorite note taking app) https://joplinapp.org/
+- Protonmail (better, encrypted email & calendar) https://protonmail.com/
+- Mullvad (VPN) https://mullvad.net/en/
 - Easy way to start self-hosting your own cloud services
   - Yunohost https://yunohost.org/en
   - Freedombox https://www.freedombox.org/
